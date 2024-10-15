@@ -1,0 +1,402 @@
+body {
+  background-image: url("/img/Photo.jpg");
+  width: 1440px;
+
+}
+
+#silika {
+  /* silika */
+
+  position: absolute;
+  width: 107px;
+  height: 71px;
+  left: 133px;
+  top: 23px;
+
+  font-family: "Biryani";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 71px;
+  /* identical to box height */
+  text-decoration-line: underline;
+
+  color: #160647;
+}
+
+.wehiringborder {
+  /* Rectangle 1 */
+
+
+position: absolute;
+width: 83px;
+height: 28px;
+left: 270px;
+top: 79px;
+
+background: #F22E52;
+border-radius: 5px;
+
+.wehiring {
+  /* We’re Hiring */
+
+position: absolute;
+width: 61px;
+height: 12px;
+left: 10px;
+top: 1px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.02em;
+text-decoration-line: underline;
+
+color: #FFFFFF;
+
+
+}
+
+.uc {
+  /* user cases */
+
+position: absolute;
+width: 83px;
+height: 19px;
+left: 200px;
+top: 10px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+text-decoration-line: underline;
+
+color: #160647;
+
+
+}
+
+/* resources */
+.res {
+position: absolute;
+width: 76px;
+height: 19px;
+left: 350px;
+top: 10px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+text-decoration-line: underline;
+
+color: #160647;
+
+}
+
+.wd {
+  /* weekly demos */
+
+position: absolute;
+width: 110px;
+height: 19px;
+left: 500px;
+top: 10px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+text-decoration-line: underline;
+
+color: #160647;
+
+
+}
+
+.price {
+  /* pricing */
+
+position: absolute;
+width: 53px;
+height: 19px;
+left: 650px;
+top: 10px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+text-decoration-line: underline;
+
+color: #160647;
+
+
+}
+
+.login {
+  /* Login */
+
+position: absolute;
+width: 43px;
+height: 19px;
+left: 840px;
+top: 10px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+text-decoration-line: underline;
+
+color: #160647;
+
+
+}
+
+.blueborder {
+  /* Frame 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 15px 30px;
+gap: 10px;
+
+position: absolute;
+width: 142px;
+height: 30px;
+left: 950px;
+top: -10px;
+
+background: #47BEBA;
+border-radius: 5px;
+
+}
+
+.gs {
+  /* Get Started */
+
+position: absolute;
+width: 142px;
+height: 30px;
+left: 60px;
+top: 10px;
+
+width: 500px;
+height: 500px;
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.02em;
+text-decoration-line: underline;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+
+.sh {
+  /* Silika Helps */
+
+position: absolute;
+width: 378px;
+height: 77px;
+left: 190px;
+top: 271px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 77px;
+letter-spacing: 0.02em;
+text-decoration-line: underline;
+
+color: #160647;
+
+
+}
+
+.ma {
+  /* Marketing Agencies! */
+
+position: absolute;
+width: 672px;
+height: 63px;
+left: 35px;
+top: 355px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 63px;
+/* identical to box height, or 98% */
+text-align: center;
+letter-spacing: 0.02em;
+text-decoration-line: underline;
+
+color: #160647;
+
+
+}
+
+.nulla {
+  /* At nulla tristique facilisis augue. Lectus diam dignissim erat blandit pellentesque egestas nulla a. Nulla consectetur nunc egestas metus pellentesque. */
+
+position: absolute;
+width: 697px;
+height: 50px;
+left: 10px;
+top: 460px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+/* or 156% */
+text-align: center;
+text-decoration-line: underline;
+
+color: #6C6C6C;
+
+
+}
+
+.blueborder2 {
+  /* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 20px 40px;
+gap: 10px;
+
+position: absolute;
+width: 100px;
+height: 30px;
+left: 180px;
+top: 538px;
+
+background: #47BEBA;
+border-radius: 5px;
+
+}
+
+.getstart {
+  /* Get Started */
+
+width: 82px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.02em;
+text-decoration-line: underline;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+
+.redborder {
+  /* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 20px 40px;
+gap: 10px;
+
+position: absolute;
+width: 100px;
+height: 30px;
+left: 400px;
+top: 538px;
+
+background: #F22E52;
+border-radius: 5px;
+
+}
+
+.howitworks {
+/* How It Works */
+
+/* How It Works */
+
+width: 93px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.02em;
+text-decoration-line: underline;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+
+.vector {
+  /* Vector 1 */
+
+position: absolute;
+
+left: 326px;
+top: 18px;
+
+
+
+}
+
+.vector2 {
+  /* Vector 2 */
+
+position: absolute;
+
+left: 469px;
+top: 18px;
+
+}
+
